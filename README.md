@@ -1,3 +1,4 @@
+![customer performce](https://github.com/arun200222/Customer-Performance-Dashboard/assets/103039338/0dad3c56-d3cd-44a9-a4d0-a858f3c6308d)
 # Customer Performance Dashboard
 # Overview
 The Customer Performance Dashboard is a powerful tool designed to help businesses leverage their data effectively. By using this dashboard, companies can identify personalized marketing opportunities, maximize revenue growth, and optimize their resource allocation. This Power BI dashboard provides deep insights into various aspects of customer performance, including revenue analysis, customer segmentation, dynamic ranking, and family status analysis.
